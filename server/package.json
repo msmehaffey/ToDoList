@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "To Do List app using the MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msmehaffey/ToDoList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msmehaffey/ToDoList/issues"
+  },
+  "homepage": "https://github.com/msmehaffey/ToDoList#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4",
+    "mongoose": "^5.4.15"
+  }
+}
